@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EthosClient
+namespace EllucianEthosSDK
 {
     /// <summary>
     /// Base class for Ethos entity models

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace OpenLearningAcademyService.Ethos.Entities
+namespace EllucianEthosSDK
 {
     public class GUIDObject
     {

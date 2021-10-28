@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EthosClient
+namespace EllucianEthosSDK
 {
     public enum ChangeOperation { Create, Update, Delete };
 

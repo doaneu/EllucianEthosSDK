@@ -10,7 +10,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace EthosClient
+namespace EllucianEthosSDK
 {
     public class EthosHttpClient : HttpClient
     {

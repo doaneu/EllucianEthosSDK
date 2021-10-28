@@ -1,5 +1,5 @@
 ﻿
-namespace EthosClient
+namespace EllucianEthosSDK
 {
     public class GetResponse
     {
